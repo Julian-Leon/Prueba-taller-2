@@ -24,3 +24,5 @@ plt.title('Histograma de tiempos de servicio (Distribución Normal)')
 plt.xlabel('Tiempos de servicio')
 plt.ylabel('Frecuencia')
 plt.show()
+
+r=1
