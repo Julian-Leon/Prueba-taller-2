@@ -25,4 +25,4 @@ plt.xlabel('Tiempos de servicio')
 plt.ylabel('Frecuencia')
 plt.show()
 
-r=1
+r=1+2
